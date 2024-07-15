@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "LH B-You Wealth",
+      "rates": [
+        {
+          "minSaving": 0,
+          "rate": 0.25
+        },
+        {
+          "minSaving": 100000,
+          "rate": 1.75
+        },
+        {
+          "minSaving": 900000,
+          "rate": 5.55
+        },
+        {
+          "minSaving": 1000000,
+          "rate": 1.50
+        },
+        {
+          "minSaving": 3000000,
+          "rate": 0.25
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "KKP Start Saving",
+      "rates": [
+        {
+          "minSaving": 0,
+          "rate": 0.25
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Dime! Save",
+      "rates": [
+        {
+          "minSaving": 0,
+          "rate": 0.25
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "CIMB Chill-D",
+      "rates": [
+        {
+          "minSaving": 0,
+          "rate": 0.25
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Kept by Krungsri",
+      "rates": [
+        {
+          "minSaving": 0,
+          "rate": 0.25
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "TTB ME Save",
+      "rates": [
+        {
+          "minSaving": 0,
+          "rate": 0.25
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Alpha Savings by Thai Credit",
+      "rates": [
+        {
+          "minSaving": 0,
+          "rate": 0.25
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "CIMB Speed D+",
+      "rates": [
+        {
+          "minSaving": 0,
+          "rate": 0.25
+        }
+      ]
+    }
+  ]
+}
